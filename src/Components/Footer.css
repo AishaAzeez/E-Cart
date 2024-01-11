@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Akaya+Kanadaka&family=Averia+Serif+Libre:wght@300&family=Coiny&family=Croissant+One&family=DM+Serif+Display&family=Dancing+Script:wght@400;500;700&family=EB+Garamond&family=Fanwood+Text&family=Forum&family=Ibarra+Real+Nova&family=Lobster&family=Luckiest+Guy&family=Merriweather&family=Pacifico&family=Paytone+One&family=Playfair+Display&family=Righteous&family=Simonetta&family=Spectral:ital,wght@1,200;1,300&family=Vollkorn&family=Young+Serif&display=swap');
+
+
+.a3{
+    color: white;
+    text-align: justify;
+    font-family: 'Roboto Slab', serif;
+}
+.a4,.a5{
+    font-family: Rufina;
+}
+.a1,.a5{
+    color: white;
+}
+.a4,.a6{
+    color: rgb(12, 12, 12);
+}
+.a6{
+    font-weight: bold;
+    font-family: Averia Serif Libre;
+}
+.a7{
+    color: white;
+    border-radius: 7px;
+    background-color: rgb(183, 13, 13);
+} 
+
+@media (max-width:600px){
+    .r1{
+        text-align: center;
+    }
+    .r2{
+        margin-left: 85px;
+    }
+}
